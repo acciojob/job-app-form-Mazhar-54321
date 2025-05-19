@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+form{
+	display:flex;
+	flex-wrap:wrap;
+	flex-direction:column;
+	max-width:400px;
+	row-gap:10px;
+}
